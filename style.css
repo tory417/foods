@@ -1,0 +1,33 @@
+body{
+	background-color: #f6f6f6;
+	text-align: center;
+	font-family: Segoe UI;
+	padding-left: 20px;
+	align-content: center;
+}
+.container{
+	width: 98%;
+}
+.block{
+	display: inline-block;
+	width: 100px;
+	height: 130px;
+	border: 1px solid #c0c0c0;
+	border-radius: 30px;
+	font-weight: 500;
+	padding: 25px 15px 15px 15px;
+	margin: 10px;
+	align-content: center;
+	/*float:left;*/
+}
+.text{
+	padding: 10px;
+}
+img{
+	width: 80%;
+}
+hr{
+	display: block;
+	color:#c0c0c0;
+	margin-right: 15px;
+}
